@@ -1,0 +1,387 @@
+/* General Style */
+a:link {text-decoration:underline; color:#CCCCCC;}
+a:active {text-decoration:underline; color:#CCCCCC;}
+a:visited {text-decoration:underline; color:#CCCCCC;}
+a:hover {text-decoration:none; color:#FFFFFF;}
+
+td, body {font-family:verdana,arial,helvetica; font-size:8pt; color:#9F9F9F}
+form {padding:0px;margin:0px;}
+input,textarea,select {vertical-align:middle; font-size:8pt; font-family:verdana,arial,helvetica;}
+.copy {font-size:7pt;}
+input#catSelector9{background-color:#fff; }
+
+a.noun:link {text-decoration:none; color:#A9B5D8}
+a.noun:active {text-decoration:none; color:#A9B5D8}
+a.noun:visited {text-decoration:none; color:#A9B5D8}
+a.noun:hover {text-decoration:none; color:#FFFFFF}
+.mframe1 {padding:2 10 30 10px;}
+hr {color:#464646;height:1px;}
+label {cursor:pointer;cursor:hand}
+
+.blocktitle {font-family:Verdana,Sans-Serif;color:#FFFFFF;font-size:13px;font-weight:bold; padding-left:22px; background: url('/.s/t/641/24.gif') no-repeat 5px 2px;}
+
+.menut0 {}
+.menut {padding:2 3 3 15px;}
+.mframe {padding:2 0 30 30px;}
+.bannerTable {width:468;height:60;}
+
+.menu1 {font-weight:bold;font-size:8pt;font-family:Arial,Sans-Serif;}
+a.menu1:link {text-decoration:underline; color:#CCCCCC}
+a.menu1:active {text-decoration:underline; color:#CCCCCC}
+a.menu1:visited {text-decoration:underline; color:#CCCCCC}
+a.menu1:hover {text-decoration:none; color:#FFFFFF}
+/* ------------- */
+
+/* Menus */
+ul.uz, ul.uMenuRoot {list-style: none; margin: 0 0 0 0; padding-left: 0px;}
+li.menus {margin: 0; padding: 0 0 0 15px; background: url('/.s/t/641/25.gif') no-repeat 0px 3px; margin-bottom: .6em;}
+/* ----- */
+
+/* Site Menus */
+.uMenuH li {float:left;padding:0 5px;}
+
+
+.uMenuV .uMenuItem {font-weight:normal;}
+.uMenuV li a:link {text-decoration:none; color:#A9B5D8}
+.uMenuV li a:active {text-decoration:none; color:#A9B5D8}
+.uMenuV li a:visited {text-decoration:none; color:#A9B5D8}
+.uMenuV li a:hover {text-decoration:none; color:#FFFFFF}
+
+.uMenuV .uMenuItemA {font-weight:bold;}
+.uMenuV a.uMenuItemA:link {text-decoration:none; color:#FFFFFF;}
+.uMenuV a.uMenuItemA:visited {text-decoration:none; color:#FFFFFF}
+.uMenuV a.uMenuItemA:hover {text-decoration:underline; color:#FFFFFF}
+.uMenuV .uMenuArrow {position:absolute;width:10px;height:10px;right:0;top:3px;background:url('/.s/img/wd/1/ar1.gif') no-repeat 0 0;}
+.uMenuV li {margin: 0; padding: 0 0 0 15px; background: url('/.s/t/641/25.gif') no-repeat 0px 3px; margin-bottom: .6em;}
+/* --------- */
+
+/* Module Part Menu */
+.catsTd {padding: 0 0 6px 15px; background: url('/.s/t/641/25.gif') no-repeat 0px 3px;}
+.catName {font-family:Verdana,Tahoma,Arial,Sans-Serif;font-size:11px;}
+.catNameActive {font-family:Verdana,Tahoma,Arial,Sans-Serif;font-size:11px;}
+.catNumData {font-size:7pt;color:#333333;}
+.catDescr {font-size:7pt; padding-left:10px;}
+a.catName:link {text-decoration:none; color:#A9B5D8;}
+a.catName:visited {text-decoration:none; color:#A9B5D8;}
+a.catName:hover {text-decoration:none; color:#FFFFFF;}
+a.catName:active {text-decoration:none; color:#A9B5D8;}
+a.catNameActive:link {text-decoration:none; color:#FFFFFF;}
+a.catNameActive:visited {text-decoration:none; color:#FFFFFF;}
+a.catNameActive:hover {text-decoration:underline; color:#FFFFFF;}
+a.catNameActive:active {text-decoration:none; color:#FFFFFF;}
+/* ----------------- */
+
+/* Entries Style */
+.eBlock {}
+.eTitle {font-family:Verdana,Arial,Sans-Serif;font-size:13px;font-weight:bold;color:#CCCCCC; padding: 0 0 0 18px; background: url('/.s/t/641/26.gif') no-repeat 0 3px;}
+.eTitle a:link {text-decoration:underline; color:#CCCCCC;}
+.eTitle a:visited {text-decoration:underline; color:#CCCCCC;}
+.eTitle a:hover {text-decoration:none; color:#FFFFFF;}
+.eTitle a:active {text-decoration:underline; color:#CCCCCC;}
+
+.eText {text-align:justify; padding:5px;border-top:1px dashed #1D2C57;}
+
+.eDetails {border-top:1px dashed #333333;border-bottom:1px dashed #333333;color:#666666;padding-bottom:5px;padding-top:3px;text-align:left;font-size:7pt;}
+.eDetails1 {border-top:1px dashed #333333;border-bottom:1px dashed #333333;color:#666666;padding-bottom:5px;padding-top:3px;text-align:left;font-size:8pt;}
+.eDetails2 {border-top:1px dashed #333333;border-bottom:1px dashed #333333;color:#666666;padding-bottom:5px;padding-top:3px;text-align:left;font-size:8pt;}
+
+.eRating {font-size:7pt;}
+
+.eAttach {margin: 16px 0 0 0; padding: 0 0 0 15px; background: url('/.s/t/641/27.gif') no-repeat 0px 0px;}
+/* --------------- */
+
+/* Entry Manage Table */
+.manTable {border:1px solid #5D74B2;background:#131A2E;}
+.manTdError {color:#FF0000;}
+.manTd1 {}
+.manTd2 {}
+.manTd3 {}
+.manTdSep {}
+.manHr {}
+.manTdBrief {}
+.manTdText {}
+.manTdFiles {}
+.manFlFile {}
+.manTdBut {}
+.manFlSbm {}
+.manFlRst {}
+.manFlCnt {}
+/* ------------------ */
+
+/* Comments Style */
+.cAnswer {color:#636363;padding-left:15px;padding-top:4px;font-style:italic;}
+
+.cBlock1 {background:#131A2E;border:1px solid #1D2C57;}
+.cBlock2 {background:#131A2E;border:1px solid #1D2C57;}
+/* -------------- */
+
+/* Comments Form Style */
+.commTable {border:1px solid #5D74B2;background:#131A2E;}
+.commTd1 {color:#5D74B2;font-weight:bold;padding-left:5px;}
+.commTd2 {padding-bottom:2px;}
+.commFl {width:100%;color:#636363;background:#0F1424;border:1px solid #1D2C57;}
+.smiles {border:1px solid #1D2C57;background:#0F1424;}
+.commReg {padding: 10 0 10 0px; text-align:center;}
+.commError {color:#FF0000;}
+.securityCode {color:#636363;background:#0F1424;border:1px solid #1D2C57;}
+/* ------------------- */
+
+/* News/Blog Archive Menu */
+.archUl {list-style: none; margin:0; padding-left:0;}
+.archLi {padding: 0 0 3px 10px; background: url('/.s/t/641/28.gif') no-repeat 0px 4px;}
+.archActive {color:#FFFFFF;}
+a.archLink:link {text-decoration:underline; color:#FFFFFF;}
+a.archLink:visited {text-decoration:underline; color:#FFFFFF;}
+a.archLink:hover {text-decoration:none; color:#D8D5D5;}
+a.archLink:active {text-decoration:none; color:#D8D5D5;}
+/* ---------------------- */
+
+/* News/Blog Archive Style */
+.archiveCalendars {text-align:center;color:#E2B4B4;}
+.archiveDateTitle {font-weight:bold;color:#FFFFFF;padding-top:15px;}
+.archEntryHr {width:250px;color:#333333;}
+.archiveeTitle li {margin-left: 15px; padding: 0 0 0 15px; background: url('/.s/t/641/29.gif') no-repeat 0px 2px; margin-bottom: .6em;}
+.archiveEntryTime {width:65px;font-style:italic;}
+.archiveEntryComms {font-size:9px;color:#C3C3C3;}
+a.archiveDateTitleLink:link {text-decoration:none; color:#FFFFFF}
+a.archiveDateTitleLink:visited {text-decoration:none; color:#FFFFFF}
+a.archiveDateTitleLink:hover {text-decoration:underline; color:#FFFFFF}
+a.archiveDateTitleLink:active {text-decoration:underline; color:#FFFFFF}
+.archiveNoEntry {text-align:center;color:#E2B4B4;}
+/* ------------------------ */
+
+/* News/Blog Calendar Style */
+.calMonth {}
+.calWday {color:#FFFFFF; background:#27314B; width:18px;}
+.calWdaySe {color:#FFFFFF; background:#5D74B2; width:18px;}
+.calWdaySu {color:#FFFFFF; background:#5D74B2; width:18px; font-weight:bold;}
+.calMday {color:#CCCCCC;background:#202020;}
+.calMdayA {color:#000000;background:#A9B5D8;}
+.calMdayIs {color:#C04141;background:#0F1424;font-weight:bold;border:1px solid #1D2C57;}
+.calMdayIsA {border:1px solid #5D74B2; background:#27314B;font-weight:bold;}
+a.calMonthLink:link,a.calMdayLink:link {text-decoration:none; color:#FFFFFF;}
+a.calMonthLink:visited,a.calMdayLink:visited {text-decoration:none; color:#FFFFFF;}
+a.calMonthLink:hover,a.calMdayLink:hover {text-decoration:underline; color:#FFFFFF;}
+a.calMonthLink:active,a.calMdayLink:active {text-decoration:underline; color:#FFFFFF;}
+/* ------------------------ */
+
+/* Poll styles */
+.pollBut {width:110px;}
+
+.pollBody {padding:7px; margin:0px; background:#000000}
+.textResults {background:#FFFFFF}
+.textResultsTd {background:#700000}
+
+.pollNow {background:#FFFFFF}
+.pollNowTd {background:#700000}
+
+.totalVotesTable {background:#FFFFFF}
+.totalVotesTd {background:#700000}
+/* ---------- */
+
+/* User Group Marks */
+a.groupModer:link,a.groupModer:visited,a.groupModer:hover {color:yellow;}
+a.groupAdmin:link,a.groupAdmin:visited,a.groupAdmin:hover {color:pink;}
+a.groupVerify:link,a.groupVerify:visited,a.groupVerify:hover {color:#99CCFF;}
+/* ---------------- */
+
+/* Other Styles */
+.replaceTable {background:#131A2E;height:100px;width:300px;border:1px solid #1D2C57;}
+.replaceBody {background:url('/.s/t/641/1.gif') #222222;}
+
+.legendTd {font-size:7pt;}
+/* ------------ */
+
+/* ===== forum Start ===== */
+
+/* General forum Table View */
+.gTable {background:#000000;border-bottom:3px solid #5D74B2;}
+.gTableTop {padding:2px;height:35px; background:url('/.s/t/641/31.gif'); color:#A9B5D8;font-family:Verdana,Sans-Serif;font-size:13px;font-weight:bold; padding-left:22px;padding-top:10px;}
+.gTableSubTop {padding:2px;background:#131A2E;color:#5D74B2;height:20px;font-size:10px;}
+.gTableBody {padding:2px;background:#202020;}
+.gTableBody1 {padding:2px;background:#202020;}
+.gTableBottom {padding:2px;background:#202020;}
+.gTableLeft {padding:2px;background:#202020;font-weight:bold;color:#A9B5D8}
+.gTableRight {padding:2px;background:#202020;color:#666666;}
+.gTableError {padding:2px;background:#202020;color:#FF0000;}
+/* ------------------------ */
+
+/* Forums Styles */
+.forumNameTd,.forumLastPostTd {padding:2px;background:#202020}
+.forumIcoTd,.forumThreadTd,.forumPostTd {padding:2px;background:#0F1424}
+.forumLastPostTd,.forumArchive {padding:2px;font-size:7pt;}
+
+a.catLink:link {text-decoration:none; color:#A9B5D8;}
+a.catLink:visited {text-decoration:none; color:#A9B5D8;}
+a.catLink:hover {text-decoration:underline; color:#999999;}
+a.catLink:active {text-decoration:underline; color:#A9B5D8;}
+
+.lastPostGuest,.lastPostUser,.threadAuthor {font-weight:bold}
+.archivedForum{font-size:7pt;color:#FF0000;font-weight:bold;}
+/* ------------- */
+
+/* forum Titles & other */
+.forum {font-weight:bold;font-size:9pt;}
+.forumDescr,.forumModer {color:#888888;font-size:7pt;}
+.forumViewed {font-size:9px;}
+a.forum:link, a.lastPostUserLink:link, a.forumLastPostLink:link, a.threadAuthorLink:link {text-decoration:underline; color:#CCCCCC;}
+a.forum:visited, a.lastPostUserLink:visited, a.forumLastPostLink:visited, a.threadAuthorLink:visited {text-decoration:underline; color:#CCCCCC;}
+a.forum:hover, a.lastPostUserLink:hover, a.forumLastPostLink:hover, a.threadAuthorLink:hover {text-decoration:none; color:#FFFFFF;}
+a.forum:active, a.lastPostUserLink:active, a.forumLastPostLink:active, a.threadAuthorLink:active {text-decoration:underline; color:#CCCCCC;}
+/* -------------------- */
+
+/* forum Navigation Bar */
+.forumNamesBar {padding-bottom:7px;font-weight:bold;font-size:7pt;}
+.forumBarKw {font-weight:normal;}
+a.forumBarA:link {text-decoration:none; color:#CCCCCC;}
+a.forumBarA:visited {text-decoration:none; color:#CCCCCC;}
+a.forumBarA:hover {text-decoration:underline; color:#FFFFFF;}
+a.forumBarA:active {text-decoration:underline; color:#CCCCCC;}
+/* -------------------- */
+
+/* forum Fast Navigation Blocks */
+.fastNav,.fastSearch,.fastLoginForm {font-size:7pt;}
+/* ---------------------------- */
+
+/* forum Fast Navigation Menu */
+.fastNavMain {background:#862D2D;color:#FFFFFF;}
+.fastNavCat {background:#F9E6E6;}
+.fastNavCatA {background:#F9E6E6;color:#0000FF}
+.fastNavForumA {color:#0000FF}
+/* -------------------------- */
+
+/* forum Page switches */
+.pagesInfo {background:#202020;padding-right:10px;font-size:7pt;}
+.switches {background:#2B2B2B;}
+.switch {background:#202020;width:15px;font-size:7pt;}
+.switchActive {background:#1D2C57;font-weight:bold;color:#A9B5D8;width:15px}
+a.switchDigit:link,a.switchBack:link,a.switchNext:link {text-decoration:none; color:#CCCCCC;}
+a.switchDigit:visited,a.switchBack:visited,a.switchNext:visited {text-decoration:none; color:#CCCCCC;}
+a.switchDigit:hover,a.switchBack:hover,a.switchNext:hover {text-decoration:underline; color:#FFFFFF;}
+a.switchDigit:active,a.switchBack:active,a.switchNext:active {text-decoration:underline; color:#CCCCCC;}
+/* ------------------- */
+
+/* forum Threads Style */
+.threadNametd,.threadAuthTd,.threadLastPostTd {padding:2px;padding:2px;background:#202020}
+.threadIcoTd,.threadPostTd,.threadViewTd {padding:2px;background:#0F1424}
+.threadLastPostTd {padding:2px;font-size:7pt;}
+.threadDescr {color:#666666;font-size:7pt;}
+.threadNoticeLink {font-weight:bold;}
+.threadsType {padding:2px;background:#484848;height:20px;font-weight:bold;font-size:7pt;color:#FFFFFF;padding-left:40px;}
+.threadsDetails {padding:2px;background:#484848;height:20px;color:#5D74B2;color:#FFFFFF;}
+.forumOnlineBar {padding:2px;background:#1D2C57;height:20px;color:#5D74B2;}
+
+a.threadPinnedLink:link {text-decoration:none; color:#CCCCCC;}
+a.threadPinnedLink:visited {text-decoration:none; color:#CCCCCC;}
+a.threadPinnedLink:hover {text-decoration:underline; color:#FFFFFF;}
+a.threadPinnedLink:active {text-decoration:underline; color:#CCCCCC;}
+
+.threadPinnedLink,.threadLink {font-weight:bold;}
+a.threadLink:link {text-decoration:underline; color:#CCCCCC;}
+a.threadLink:visited {text-decoration:underline; color:#CCCCCC;}
+a.threadLink:hover {text-decoration:none; color:#FFFFFF;}
+a.threadLink:active {text-decoration:underline; color:#CCCCCC;}
+
+.postpSwithces {font-size:7pt;}
+.thDescr {font-weight:normal;}
+.threadFrmBlock {font-size:7pt;text-align:right;}
+/* ------------------- */
+
+/* Posts View */
+.postTable {background:#1D2C57}
+.postPoll {background:#0F1424;text-align:center;}
+.postFirst {background:#0F1424;border-bottom:1px solid silver;}
+.postRest1 {background:#0F1424;}
+.postRest2 {background:#0F1424;}
+.postSeparator {height:2px;background:#A9B5D8;}
+
+.postTdTop {background:#131A2E;color:#5D74B2;}
+.postBottom {background:#202020;height:20px;color:#5D74B2;}
+.postUser {font-weight:bold;}
+.postTdInfo {background:#0F1424;text-align:center;padding:5px;}
+.postRankName {margin-top:5px;}
+.postRankIco {margin-bottom:5px;margin-bottom:5px;}
+.reputation {margin-top:5px;}
+.signatureHr {margin-top:20px;color:#A9B5D8;}
+.posttdMessage {background:#202020;padding:5px;}
+
+.postPoll {padding:5px;}
+.pollQuestion {text-align:center;font-weight:bold;}
+.pollButtons,.pollTotal {text-align:center;}
+.pollSubmitBut,.pollreSultsBut {width:140px;font-size:7pt;}
+.pollSubmit {font-weight:bold;}
+.pollEnd {text-align:center;height:30px;}
+
+.codeMessage {background:#1D2C57;font-size:9px;}
+.quoteMessage {background:#1D2C57;font-size:9px;}
+
+.signatureView {font-size:7pt;}
+.edited {padding-top:30px;font-size:7pt;text-align:right;color:#5D74B2;}
+.editedBy {font-weight:bold;font-size:8pt;}
+
+.statusBlock {padding-top:3px;}
+.statusOnline {color:#FFFF00;}
+.statusOffline {color:#FFFFFF;}
+/* ---------- */
+
+/* forum AllInOne Fast Add */
+.newThreadBlock {background: #F9F9F9;border: 1px solid #B2B2B2;}
+.newPollBlock {background: #F9F9F9;border: 1px solid #B2B2B2;}
+.newThreadItem {padding: 0 0 0 8px; background: url('/.s/t/641/32.gif') no-repeat 0px 4px;}
+.newPollItem {padding: 0 0 0 8px; background: url('/.s/t/641/32.gif') no-repeat 0px 4px;}
+/* ----------------------- */
+
+/* Post Form */
+.pollBut, .loginButton, .searchSbmFl, .commSbmFl, .signButton {font-size:7pt;background: #394D89;color:#FFFFFF;border:1px outset #AFBDE4;}
+
+.codeButtons {font-size:7pt;background: #394D89;color:#FFFFFF;border:1px outset #AFBDE4;}
+.codeCloseAll {font-size:7pt;background: #394D89;color:#FFFFFF;border:1px outset #AFBDE4;font-weight:bold;}
+.postNameFl,.postDescrFl {background:#131A2E;border:1px solid #1D2C57;width:400px}
+.postPollFl,.postQuestionFl {background:#131A2E;border:1px solid #1D2C57;width:400px}
+.postResultFl {background:#131A2E;border:1px solid #1D2C57;width:50px}
+.postAnswerFl {background:#131A2E;border:1px solid #1D2C57;width:300px}
+.postTextFl {background:#131A2E;border:1px solid #1D2C57;width:550px;height:150px;color:#666666;}
+.postUserFl {background:#131A2E;border:1px solid #1D2C57;width:300px}
+
+.pollHelp {font-weight:normal;font-size:7pt;padding-top:3px;}
+.smilesPart {padding-top:5px;text-align:center}
+/* --------- */
+
+/* ====== forum End ====== */
+
+/* Приветик */
+@font-face {
+  font-family: 'HACKED';
+  src:      url('HACKED.ttf');
+}
+
+#_{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+
+#ct{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+#OS{
+  color: rgb(255, 255, 255);
+}
+
+#ctOS{
+  font-style: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  font-family: bold Verdana Tahoma;
+  color: rgb(255, 255, 255);
+}
+body{
+  background: url('http://ctos.do.am/fon.jpg');
+  #222222;
+  margin:0px;
+  padding:0px;
+}
