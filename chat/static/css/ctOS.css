@@ -355,6 +355,11 @@ a.threadLink:active {text-decoration:underline; color:#CCCCCC;}
   src:      url('HACKED.ttf');
 }
 
+@font-face {
+  font-family: 'hack';
+  src:      url('hack.ttf');
+}
+
 #_{
   background-color: rgb(255, 255, 255);
   color: rgb(255, 255, 255);
