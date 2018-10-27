@@ -21,6 +21,14 @@ def command_full(request):
 def command(request):
     return render(request, 'chat/command.html', {})
 
+def hacked(request):
+    return render(request, 'chat/hacked.html', {})
+
+def admini(request):
+    return render(request, 'chat/admini.html', {})
+
+
+
 
 
 def id1338(request):
