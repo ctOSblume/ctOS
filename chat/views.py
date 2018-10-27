@@ -20,3 +20,11 @@ def command_full(request):
 
 def command(request):
     return render(request, 'chat/command.html', {})
+
+
+
+def id1338(request):
+    return render(request, 'chat/id1338.html', {})
+
+def id9395(request):
+    return render(request, 'chat/id9395.html', {})

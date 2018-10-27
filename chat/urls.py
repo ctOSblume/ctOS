@@ -8,4 +8,7 @@ urlpatterns = [
      url(r'^command/$', views.command, name='command'),
      url(r'^command_full/$', views.command_full, name='command_full'),
      url(r'^chat/$', views.chat, name='chat'),
+
+     url(r'^id1338/$', views.id1338, name='id1338'),
+     url(r'^id9395/$', views.id9395, name='id9395'),
 ]
