@@ -353,12 +353,12 @@ a.threadLink:active {text-decoration:underline; color:#CCCCCC;}
 /* Приветик */
 @font-face {
   font-family: 'HACKED';
-  src:      url('HACKED.ttf');
+  src: url('ttf/HACKED.ttf');
 }
 
 @font-face {
   font-family: 'hack';
-  src:      url('hack.ttf');
+  src: url('ttf/hack.otf');
 }
 
 #_{
